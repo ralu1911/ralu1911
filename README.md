@@ -1,4 +1,4 @@
-## Hi there, Im Raul👋
+# Hi there, Im Raul👋
 
 
 **Game Programer | Technical Developer | Unity & Unreal Developer** 
@@ -13,7 +13,13 @@ Trying to learn every day.
 - c++, c#, Unity, Unreal Engine 4 & 5, JavaScript, Lua
 - Specialties: Gameplay programming, UI programming, System Architecture, Tools.
 
+## Skills
 
+### Code language
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Lua](https://img.shields.io/badge/Lua-Blue?style=for-the-badge&color=%23000080)
 <!--
 **ralu1911/ralu1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
