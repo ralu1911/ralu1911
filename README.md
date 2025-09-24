@@ -5,8 +5,9 @@
 Trying to learn every day.
 
 ## Current proyects
-[The Great Farce] (https://store.steampowered.com/app/2730710/The_Great_Farce/)
-[Dorothys Job] (https://store.steampowered.com/app/3926730/Dorothys_Job/)
+[The Great Farce](https://store.steampowered.com/app/2730710/The_Great_Farce/)
+
+[Dorothys Job](https://store.steampowered.com/app/3926730/Dorothys_Job/)
 
 ## About Me
 - c++, c#, Unity, Unreal Engine 4 & 5, JavaScript, Lua
