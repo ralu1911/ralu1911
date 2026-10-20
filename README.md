@@ -4,7 +4,7 @@
 **Game Programer | Technical Developer | Unity & Unreal Developer** 
 Trying to learn every day.
 
-## Current proyects
+## Proyects
 [The Great Farce](https://store.steampowered.com/app/2730710/The_Great_Farce/)
 
 [Dorothys Job](https://store.steampowered.com/app/3926730/Dorothys_Job/)
